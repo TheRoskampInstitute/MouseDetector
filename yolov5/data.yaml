@@ -1,0 +1,12 @@
+names:
+- heads
+nc: 1
+roboflow:
+  license: Private
+  project: optomotor
+  url: https://app.roboflow.com/behavior-workspace/optomotor/7
+  version: 7
+  workspace: behavior-workspace
+test: test/images
+train: train/images
+val: valid/images
